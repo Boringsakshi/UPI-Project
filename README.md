@@ -4,7 +4,7 @@ An analysis of NPCI's monthly UPI statistics: how fast UPI has grown, how the av
 
 **Tools:** Python (pandas), MySQL, Power BI
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard\Image)
 
 ## Business question
 

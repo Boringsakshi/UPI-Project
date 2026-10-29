@@ -13,7 +13,7 @@ How has UPI grown since 2019, and what do payment size and seasonality say about
 ## Data
 
 - **Source:** NPCI, UPI Product Statistics (https://www.npci.org.in/what-we-do/upi/product-statistics)
-- **Downloaded on:** [add the date you downloaded the files]
+- **Downloaded on:** [October 2026]
 - **Contents:** monthly transaction volume (millions), transaction value (crore rupees) and number of banks live on UPI
 - **Period used:** April 2019 to September 2026, 90 months. The financial year starting April 2026 is partial (6 months).
 - **Note from NPCI:** the data excludes transactions where the debit and credit are on the same account.
@@ -31,7 +31,7 @@ How has UPI grown since 2019, and what do payment size and seasonality say about
 2. **Percentage growth is slowing, but the market keeps adding more transactions each year.** Yearly volume growth fell from +106% (FY2021-22) to +30% (FY2025-26). Even so, FY2025-26 added about 55.8 billion transactions, compared with about 37.8 billion in FY2022-23.
 3. **The average payment size has fallen every year since FY2020-21.** It went from about ₹1,838 (FY2020-21) to about ₹1,301 (FY2025-26), a fall of roughly 29%, and is about ₹1,259 in the partial FY2026-27. Volume has grown faster than value, which fits UPI being used for more small, everyday payments. The data cannot show *why*, so this is a pattern and not a proven cause.
 4. **COVID-19 caused a sharp but short dip.** Volume fell 6% in March 2020 and about 20% in April 2020 (to about 1.0 billion), while value fell about 27%. Volume was back above its February 2020 level by June 2020, and by December 2020 it was about 68% higher than in February.
-5. **Seasonality is modest.** Relative to trend, the busiest months were October (index 1.028), February (1.023) and November (1.016), and the quietest were May (0.968), July (0.976) and April (0.977). The gap between the highest and lowest month is only about 6 percentage points. [Add the result of your check with 2020 excluded: did the pattern hold or change?] The October-November peak is consistent with festive-season spending, but this data cannot confirm that cause.
+5. **Seasonality is modest.** Relative to trend, the busiest months were October (index 1.028), February (1.023) and November (1.016), and the quietest were May (0.968), July (0.976) and April (0.977). The gap between the highest and lowest month is only about 6 percentage points. [Seasonality is weak, and only October is consistent. Measured against trend, October was the busiest month both with and without 2020 (index about 1.03), and July and May were consistently quiet (about 0.97 to 0.98). Other patterns changed when I excluded 2020. April flipped from below trend to above it, probably because of the lockdown crash, and February and November weakened. The gap between the highest and lowest months is only about 5 percentage points. October’s peak is consistent with festive-season spending, but this data cannot confirm that cause.] The October-November peak is consistent with festive-season spending, but this data cannot confirm that cause.
 6. **UPI's bank network grew from 144 to 756 banks** over the period.
 
 ## Recommendations
